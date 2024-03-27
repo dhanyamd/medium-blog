@@ -3,6 +3,7 @@ dist
 .wrangler
 .dev.vars
 .env
+DATABASE_URL="postgres://avnadmin:AVNS_9j8_lUPQe8NttD6_1RV@pg-11bae719-dhanya13md-1d2e.a.aivencloud.com:18610/defaultdb?sslmode=require"
 
 # Change them to your taste:
 package-lock.json
