@@ -1,5 +1,5 @@
-name = ""
-compatibility_date = ""
+name = "backend"
+compatibility_date = "2024-03-28"
 
 [vars]
 DATABASE_URL = ""
